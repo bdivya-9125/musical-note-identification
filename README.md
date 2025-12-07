@@ -70,8 +70,8 @@ The script displays:
 
 ---
 
-## 📘 Full Project Report  
-📄 **[View Report](report/Musical Notes Identification Application using Signal Processing (2).pdf)**  
+## 📘 Full Project Report
+📄 [View Report](report/Musical%20Notes%20Identification%20Application%20using%20Signal%20Processing%20(2).pdf)
 
 ---
 
