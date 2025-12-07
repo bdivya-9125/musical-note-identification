@@ -60,7 +60,7 @@ addpath(genpath('musical-note-identification'));
 
 ### 3. Run the main script:
 
-```musical_note_identifier```
+```musical_note_identifier.m```
 
 ### 4️⃣ Select an audio file when prompted  
 The script displays:  
