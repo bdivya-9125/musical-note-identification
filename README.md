@@ -56,10 +56,11 @@ Example:
 
 ```matlab
 addpath(genpath('musical-note-identification'));
+```
 
 ### 3. Run the main script:
 
-```musical_note_identifier
+```musical_note_identifier```
 
 ### 4️⃣ Select an audio file when prompted  
 The script displays:  
@@ -80,10 +81,10 @@ The script displays:
 ---
 
 ## 👥 Contributors  
-- **Sujithra S (23BEC1035)**  
-- **Thershna T K (23BEC1197)**  
-- **T Lasya (23BEC1233)**  
-- **Bojja Divya (23BEC1329)**  
+- **Bojja Divya** 
+- **Sujithra S**  
+- **Thershna T K**  
+- **T Lasya**   
 - **Dr. S. Sivakumar** *(Supervisor)*  
 
 ---
